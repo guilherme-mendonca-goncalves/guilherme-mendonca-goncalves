@@ -1,6 +1,6 @@
 ### Hi! My name is Guilherme Mendonça Gonçalves 😃
 - I'm from Brazil 
-- I'm a Production Engineer 👨‍🎓
+- I have a degree in Production Engineering 👨‍🎓
 - I am currently looking for a replacement in the job market
 - I'm studying Web Development at Awari 🔜
 - I am passionate about new challenges and experiences

@@ -8,7 +8,7 @@
 - I hope to collaborate with the whole community and learn too
 
 Reach me out 👇
-- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/guilherme-mendonça-gonçalves/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/guilherme-mendonca-goncalves/)
 
 <!--
 **guilherme-mendonca/guilherme-mendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
